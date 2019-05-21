@@ -207,7 +207,7 @@ while game:
         elif nine==five and five==one and nine!=' ':
             game=False
             break
-        elif eight==five and five==two and nine!=' ':
+        elif eight==five and five==two and eight!=' ':
             game=False
             break
         elif nine==six and six==three and nine!=' ':
